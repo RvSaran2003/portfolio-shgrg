@@ -65,7 +65,8 @@ An eye-catching, animated 3D developer portfolio crafted with React, Three.js, T
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/ShreyGrg03/Portfolio-Main.git
+git clone https://github.com/RvSaran2003/portfolio-shgrg.git
+
 cd Portfolio-main
 ```
 2. Install Dependencies
